@@ -1,0 +1,7 @@
+C:\Users\pjgon\Desktop\kataver3\bin\Debug\kataver3.exe.config
+C:\Users\pjgon\Desktop\kataver3\bin\Debug\kataver3.exe
+C:\Users\pjgon\Desktop\kataver3\bin\Debug\kataver3.pdb
+C:\Users\pjgon\Desktop\kataver3\obj\Debug\kataver3.csproj.AssemblyReference.cache
+C:\Users\pjgon\Desktop\kataver3\obj\Debug\kataver3.csproj.CoreCompileInputs.cache
+C:\Users\pjgon\Desktop\kataver3\obj\Debug\kataver3.exe
+C:\Users\pjgon\Desktop\kataver3\obj\Debug\kataver3.pdb
